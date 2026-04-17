@@ -1,0 +1,6 @@
+{
+  "name": "SVG Code Playground",
+  "description": "A live-coding environment to write and preview SVG elements and graphics in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
